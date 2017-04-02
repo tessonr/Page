@@ -1,0 +1,98 @@
+ header
+{
+    font-size: 2em;
+    text-align: center;
+    font-weight: bold;
+    color: #336699;
+    margin-bottom : 40px;
+}
+
+/* Navigation */
+
+nav
+{
+    display: inline-block;
+    width: 640px;
+    vertical-align: top;
+    line-height:45px; 
+    background-color: black;
+}
+
+nav ul
+{
+    list-style-type: none;
+    position: absolute;
+}
+
+
+
+nav a
+{
+    font-size: 1.2em;
+    color: #760001;
+    padding-bottom: 12px;
+    text-decoration: none;
+}
+
+nav a:hover
+{
+    color: #760001;
+    border-bottom: 3px solid #760001;
+}
+
+
+section
+{
+    margin-left: 250px;
+}
+
+
+h1,h2,h4
+{
+    color: #800000
+}
+
+h5
+{
+font-size: 0.9em;
+}
+
+p
+{
+    color: #333333
+}
+
+.mail
+{
+    background: url(e-mail-enveloppe-icone-8182-16.png) no-repeat 0em 0em;
+    padding-left: 25px;
+    color: #0099FF
+}
+
+.url
+{
+  color: #0000CC;
+ background: url(navigateur-terre-internet-world-icone-5531-16.png) no-repeat 0em 0em;
+ padding-left: 20px;
+}
+
+.url a:visited /* Quand le visiteur a dÃ©jÃ  vu la page concernÃ©e */
+{
+ color: #0000CC
+}
+
+.prog
+{
+  color: #0000CC;
+  /*background: url(Adobe-PDF-Document-icon.png) no-repeat 0em 0em;*/
+  padding-left: 5px;
+}
+
+.media
+{
+  color: #0000CC;
+  background: url(Adobe-PDF-Document-icon.png) no-repeat 0em 0em;
+  padding-left: 25px;
+}
+
+
