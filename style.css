@@ -7,6 +7,11 @@
     margin-bottom : 40px;
 }
 
+.header_alg
+{
+   background: url('imagess/algebre_fond.jpg');
+}
+
 /* Navigation */
 
 nav
