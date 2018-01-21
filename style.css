@@ -12,6 +12,13 @@
    background: url('Images/algebre_fond.jpg');
 }
 
+/* Corps */
+
+body
+{
+ margin: 0;
+}
+
 /* Navigation */
 
 nav
