@@ -11,16 +11,7 @@
    background: url('Images/algebre_fond.jpg');
    background-size: cover;
    height: 400px;
-}
-
-.header_txt {
-    font: x-large sans-serif;
-}
-
-.header_img, 
-.header_txt {
-    display: inline-block;
-    vertical-align: bottom;
+   padding-top:200px;
 }
 
 /* Corps */
