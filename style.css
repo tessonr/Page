@@ -3,11 +3,10 @@
     font-size: 2em;
     text-align: center;
     font-weight: bold;
-    color: #336699;
     margin-bottom : 40px;
 }
 
-.header_alg
+.header_img
 {
    background: url('Images/algebre_fond.jpg');
    background-size: cover;
