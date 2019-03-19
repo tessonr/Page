@@ -10,7 +10,8 @@
 
 .header_img
 {
-   background: url('Images/bordeaux.jpg');
+   background-image: url('Images/bordeaux_fond_commun.jpg'), url('Images/Miroir_eau.jpg');
+   background-position: left, right;
    background-size: 1400px;
    height: 200px;
    padding-top:150px;
