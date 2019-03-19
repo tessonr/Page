@@ -12,7 +12,7 @@
 {
    background-image: url('Images/bordeaux_fond_commun.jpg'), url('Images/Miroir_eau.jpg');
    background-position: left, right;
-   background-size: 1400px;
+   background-size: 1000px, 300px;
    height: 200px;
    padding-top:150px;
    color: #FDFCFC;
