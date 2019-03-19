@@ -10,10 +10,13 @@
 
 .header_img
 {
-   background-image: url('Images/bordeaux_fond_commun.jpg'), url('Images/Miroir_eau.jpg');
+   background-image: url('Images/Bordeaux_fond_commun.jpg'), url('Images/Miroir_eau.jpg');
    background-position: left, right;
    background-size: 1000px, 300px;
    background-repeat: no-repeat, no-repeat;
+   height: 200px;
+   padding-top:150px;
+   color: #FDFCFC;
 }
 
 /* Corps */
